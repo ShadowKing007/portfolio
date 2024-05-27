@@ -10,13 +10,13 @@ Check out my portfolio website: [Ibrahim's Portfolio](https://ibrahim-web-portfo
 
 ## Table of Contents 📋
 
-- [ℹ️ About](#about)
-- [✨ Features](#features)
-- [💻 Technologies Used](#technologies-used)
-- [🚀 Getting Started](#getting-started)
-- [🖥️ Usage](#usage)
-- [🤝 Contributing](#contributing)
-- [📝 License](#license)
+- [About](#ℹ️-about)
+- [Features](#✨-features)
+- [Technologies Used](#💻-technologies-used)
+- [Getting Started](#🚀-getting-started)
+- [Usage](#🖥️-usage)
+- [Contributing](#🤝-contributing)
+- [License](#📝-license)
 
 ## ℹ️ About
 
