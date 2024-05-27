@@ -1,7 +1,3 @@
-Absolutely, let's integrate those elements into the README:
-
----
-
 # Ibrahim's Portfolio Website 🚀
 
 Welcome to My Personal Portfolio Website! This website showcases my skills, projects, and experiences in web development and related fields.
@@ -10,18 +6,17 @@ Welcome to My Personal Portfolio Website! This website showcases my skills, proj
 
 ## Portfolio Link 🔗
 
-Check out Ibrahim's portfolio website: [Ibrahim's Portfolio](https://ibrahim-web-portfolio.vercel.app/)
+Check out my portfolio website: [Ibrahim's Portfolio](https://ibrahim-web-portfolio.vercel.app/)
 
 ## Table of Contents 📋
 
-- [About ℹ️](#About)
+- [About ℹ️](#about)
 - [Features ✨](#features)
 - [Technologies Used 💻](#technologies-used)
 - [Getting Started 🚀](#getting-started)
 - [Usage 🖥️](#usage)
 - [Contributing 🤝](#contributing)
 - [License 📝](#license)
-- [Portfolio Link 🔗](#(https://ibrahim-web-portfolio.vercel.app/))
 
 ## About ℹ️
 
@@ -88,7 +83,4 @@ Contributions to the portfolio website are welcome! If you have any suggestions 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
 ---
-
-Feel free to further customize this README to suit your needs. Let me know if there's anything else you'd like to add or modify!
