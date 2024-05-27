@@ -1,6 +1,6 @@
 # Ibrahim's Portfolio Website 🚀
 
-Welcome to Ibrahim's Portfolio Website! This website showcases Ibrahim's skills, projects, and experiences in web development and related fields.
+Welcome to My Personal Portfolio Website! This website showcases my skills, projects, and experiences in web development and related fields.
 
 ![Portfolio Website Screenshot](Portfolio.png)
 
@@ -16,7 +16,7 @@ Welcome to Ibrahim's Portfolio Website! This website showcases Ibrahim's skills,
 
 ## About ℹ️
 
-This portfolio website is designed and developed by Ibrahim to highlight his expertise, projects, and achievements in web development. It provides an overview of Ibrahim's skills and experiences to potential employers, clients, and collaborators.
+This portfolio website is designed and developed by me to highlight my expertise, projects, and achievements in web development. It provides an overview of my skills and experiences to potential employers, clients, and collaborators.
 
 ## Features ✨
 
@@ -31,8 +31,10 @@ This portfolio website is designed and developed by Ibrahim to highlight his exp
 - **HTML5**: Markup language for structuring the website's content.
 - **CSS3**: Styling language for designing the website's layout and appearance.
 - **JavaScript**: Programming language for adding interactivity and dynamic elements to the website.
-- **React**: JavaScript library for building user interfaces, used for creating reusable components and managing state.
+- **ReactJS**: JavaScript library for building user interfaces, used for creating reusable components and managing state.
+- **NextJS**: The library for web and native user interfaces.
 - **Vercel**: Deployment platform used to host the portfolio website.
+
 
 ## Getting Started 🚀
 
