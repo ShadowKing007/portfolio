@@ -20,7 +20,7 @@ export default function RootLayout({
       <head>
         <meta property="og:title" content="Ibrahim's Portfolio" />
         <meta property="og:description" content="Modern and Minimalist Portfolio" />
-        <meta property="og:image" content="/public/Portfolio.png" />
+        <meta property="og:image" content="/Portfolio.png" />
         <link rel="icon" href="SI-black-logo.png" sizes="576px" />
       </head>
       <body className={inter.className}>
