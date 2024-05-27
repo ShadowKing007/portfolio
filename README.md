@@ -2,7 +2,7 @@
 
 Welcome to Ibrahim's Portfolio Website! This website showcases Ibrahim's skills, projects, and experiences in web development and related fields.
 
-![Portfolio Website Screenshot](portfolio.png)
+![Portfolio Website Screenshot](Portfolio.png)
 
 ## Table of Contents 📋
 
