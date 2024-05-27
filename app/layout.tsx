@@ -8,8 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Ibrahim's Portfolio",
   description: "Modern and Minimalist Portfolio",
-  // Update the image property to contain the URL of your Open Graph image
-  image: "/Portfolio.png",
+  image: "/public/Portfolio.png",
 };
 
 export default function RootLayout({
