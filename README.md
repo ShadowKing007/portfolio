@@ -14,14 +14,14 @@ Check out Ibrahim's portfolio website: [Ibrahim's Portfolio](https://ibrahim-web
 
 ## Table of Contents 📋
 
-- [About ℹ️](#about)
+- [About ℹ️](#About)
 - [Features ✨](#features)
 - [Technologies Used 💻](#technologies-used)
 - [Getting Started 🚀](#getting-started)
 - [Usage 🖥️](#usage)
 - [Contributing 🤝](#contributing)
 - [License 📝](#license)
-- [Portfolio Link 🔗](#[portfolio-link](https://ibrahim-web-portfolio.vercel.app/))
+- [Portfolio Link 🔗](#(https://ibrahim-web-portfolio.vercel.app/))
 
 ## About ℹ️
 
