@@ -21,7 +21,7 @@ Check out Ibrahim's portfolio website: [Ibrahim's Portfolio](https://ibrahim-web
 - [Usage 🖥️](#usage)
 - [Contributing 🤝](#contributing)
 - [License 📝](#license)
-- [Portfolio Link 🔗](#portfolio-link)
+- [Portfolio Link 🔗](#[portfolio-link](https://ibrahim-web-portfolio.vercel.app/))
 
 ## About ℹ️
 
